@@ -2,6 +2,10 @@
 
 🚧 **The code is currently being organized and will be released soon. Stay tuned!**
 
+Currently, we only provide the core plug-and-play Wavelet Scattering Module (WSM).  
+Codes for integrating this module into other models for classification and generation tasks,  
+as well as pretrained weights, will be uploaded gradually in the future.
+
 Transformers have demonstrated strong global modeling capabilities in vision tasks, but their lack of inherent inductive
 biases often limits their ability to capture fine-grained and stable local structures. To address this limitation, we propose a
 lightweight and flexible Wavelet Scattering Module (WSM)
